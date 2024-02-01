@@ -12,9 +12,9 @@ table,tr,td{
 h1{
 	text-align:center;
 }
-#t12{
+.center{
 	text-align:center;
 }
-#t13{
+.right{
 	text-align:right;
 }
